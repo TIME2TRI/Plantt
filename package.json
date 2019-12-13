@@ -1,0 +1,20 @@
+{
+  "name": "@time2tri/scheduler",
+  "version": "1.5.3",
+  "description": "AngularJS module : Simple scheduler on a timeline",
+  "main": [
+        "./src/plantt.css",
+        "./src/plantt.js",
+        "./src/plantt-template.html"
+    ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TIME2TRI/Plantt"
+  },
+  "authors": [
+        "Polosson <polo@polosson.com"
+   ]
+}
